@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rootkitjump.github.io</id>
-    <title>VXVXVXVX</title>
-    <updated>2020-03-24T15:25:19.228Z</updated>
+    <title>失去梦想的咸鱼</title>
+    <updated>2020-03-25T15:22:04.946Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://rootkitjump.github.io"/>
     <link rel="self" href="https://rootkitjump.github.io/atom.xml"/>
-    <subtitle>INNER PEACE</subtitle>
+    <subtitle>没有梦想，你和咸鱼还有什么区别？</subtitle>
     <logo>https://rootkitjump.github.io/images/avatar.png</logo>
     <icon>https://rootkitjump.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, VXVXVXVX</rights>
+    <rights>All rights reserved 2020, 失去梦想的咸鱼</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://rootkitjump.github.io/post/hello-gridea/</id>
